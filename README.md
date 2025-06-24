@@ -1,11 +1,10 @@
 ### Hi , my name is Barış
 #### I am Computer Engineering student
 
-I'm Barış, 20 years old and 3rd-year Computer Engineering student who wants to be Game Developer and Game Designer.
-And I'm currently seeking a role where I can gain new experiences and work as an intern.
-I also like 3D modelling.
+I'm Barış, 21 years old and newly graduate Computer Engineer.
+And I'm currently seeking a role where I can gain new experiences.
 
-Skills: Unity / Blender / C# / HTML / CSS
+Skills: Unity / Blender / C# / .NET / React / Javascript / Python
 
 - 📫 How to reach me: b.deniz20031@gmail.com 
 
